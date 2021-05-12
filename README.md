@@ -2,7 +2,7 @@
 ![down](https://tgdown.eu-gb.mybluemix.net/15860732603498432/svg.png)
 
 ### Hi there 👋
-
+<br />
 ## 👨🏻‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)_
