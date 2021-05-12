@@ -2,6 +2,7 @@
 ![down](https://tgdown.eu-gb.mybluemix.net/15865439887654848/header.png)
 
 Hi there 👋
+<br />
 I am Akash Vaghela, an aspiring full-stack developer from Jamnagar, Gujarat. I am a highly motivated and energetic person passionate about web development. Currently, I am learning full-stack web development at Masai School. I love to build apps that are useful. 
 
 ⚡ Little bit more about me:
