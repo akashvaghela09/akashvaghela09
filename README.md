@@ -3,6 +3,7 @@
 
 ### Hi there 👋
 <br />
+
 ## 👨🏻‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
@@ -19,7 +20,7 @@
 
 
 
-# ✉️ Contact me 👇🏻
+## ✉️ Contact me 👇🏻
 
 [![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com)
 
