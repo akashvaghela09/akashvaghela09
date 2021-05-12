@@ -14,10 +14,10 @@ I am Akash Vaghela, an aspiring full-stack developer from Jamnagar, Gujarat. Cur
 A hard working and energetic person who loves to code.
 
 #### 👯 Other interests
-I like to read books and watching short movies.
+I like to read books and watch short movies.
 
 #### 📫 How can you reach me?
-Connect with me on [Twitter](https://twitter.com/AayuShah711) or [LinkedIn](https://www.linkedin.com/in/aayushah711/).
+Connect with me on [Twitter](https://twitter.com/akashvaghela09) or [LinkedIn](https://www.linkedin.com/in/akashvaghela09).
 
 #### 💬 Want to know more about me?
 You can find my work on my [Portfolio](https://akashvaghela.vercel.app).
@@ -42,6 +42,6 @@ You can find my work on my [Portfolio](https://akashvaghela.vercel.app).
 
 ## ✉️ Contact me 👇🏻
 
-[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com) [![Gmail](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09)
+[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com) [![Twitter](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09)
 
 ![down](https://tgdown.eu-gb.mybluemix.net/15860698243760064/svg2.png)
