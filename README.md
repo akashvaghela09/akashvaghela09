@@ -2,8 +2,6 @@
 ![down](https://tgdown.eu-gb.mybluemix.net/15860732603498432/svg.png)
 
 ### Hi there 👋
-_
-
 
 ## 👨🏻‍💻 Tech Stack
 
@@ -12,7 +10,7 @@ _
 
 
 
-## 📊 GitHub Stats_
+## 📊 GitHub Stats
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashvaghela09&count_private=true&show_icons=true&theme=tokyonight)
 
@@ -20,7 +18,7 @@ _
 
 
 
-# ✉️ Contact me 👇🏻 _
+# ✉️ Contact me 👇🏻
 
 [![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com)
 
