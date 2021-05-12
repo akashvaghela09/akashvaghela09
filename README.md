@@ -3,14 +3,24 @@
 
 Hi there 👋
 <br />
-I am Akash Vaghela, an aspiring full-stack developer from Jamnagar, Gujarat. I am a highly motivated and energetic person passionate about web development. Currently, I am learning full-stack web development at Masai School. I love to build apps that are useful. 
+I am Akash Vaghela, an aspiring full-stack developer from Jamnagar, Gujarat. Currently, I am learning full-stack web development at Masai School. I love to build apps that are interesting and useful. 
 
 ⚡ Little bit more about me:
 
-- 👯 I’m actively looking for oppotunities in full stack web development.
-- 🌱 I’m currently learning and building projects using MERN stack.
+- ⚗️ Though I hold Bachelor's degree in chemical engineering, I aspire to work as a programmer.
+- 🌱 I’m actively looking for oppotunities in full stack web development.
 
-Want to know more about me? Check out my [Portfolio.](https://akashvaghela.vercel.app/)
+#### ⚡ One line that describes me best? 
+A hard working and energetic person who loves to code.
+
+#### 👯 Other interests
+I like to read books and watching short movies.
+
+#### 📫 How can you reach me?
+Connect with me on [Twitter](https://twitter.com/AayuShah711) or [LinkedIn](https://www.linkedin.com/in/aayushah711/).
+
+#### 💬 Want to know more about me?
+You can find my work on my [Portfolio](https://akashvaghela.vercel.app).
 
 <br />
 
@@ -32,6 +42,6 @@ Want to know more about me? Check out my [Portfolio.](https://akashvaghela.verce
 
 ## ✉️ Contact me 👇🏻
 
-[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com)
+[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com) [![Gmail](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09)
 
 ![down](https://tgdown.eu-gb.mybluemix.net/15860698243760064/svg2.png)
