@@ -2,7 +2,6 @@
 ![down](https://tgdown.eu-gb.mybluemix.net/15860732603498432/svg.png)
 
 ### Hi there 👋
-<br/>
 
 ## 👨🏻‍💻 Tech Stack
 
@@ -18,7 +17,7 @@
 
 
 # ✉️ Contact me 👇🏻
-<br/>
+
 [![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/akashvaghela09) [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/akashvaghela09) [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:akashvaghela09@gmail.com)
 
 ![down](https://tgdown.eu-gb.mybluemix.net/15860698243760064/svg2.png)
