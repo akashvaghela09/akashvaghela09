@@ -1,7 +1,15 @@
 
-![down](https://tgdown.eu-gb.mybluemix.net/15860732603498432/svg.png)
+![down](https://tgdown.eu-gb.mybluemix.net/15865439887654848/header.png)
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there 👋
+I am Akash Vaghela, an aspiring full-stack developer from Jamnagar, Gujarat. I am a highly motivated and energetic person passionate about web development. Currently, I am learning full-stack web development at Masai School. I love to build apps that are useful. 
+
+⚡ Little bit more about me:
+
+- 👯 I’m actively looking for oppotunities in full stack web development.
+- 🌱 I’m currently learning and building projects using MERN stack.
+
+Want to know more about me? Check out my [Portfolio.](https://akashvaghela.vercel.app/)
 <br />
 
 ## 👨🏻‍💻 Tech Stack
