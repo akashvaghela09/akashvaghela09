@@ -10,7 +10,7 @@ const Card = ({ name, description, cover, github, url, loom }) => {
 
     return (
         <div className='bg-slate-500 w-96 m-4 rounded-lg'>
-            <img className='w-full rounded-t' src={cover} alt="cover" />
+            <img className='w-full h-52 rounded-t' src={cover} alt="cover" />
             <div>
                 <p className='text-slate-200 text-xl font-bold mx-4 my-2'>{name}</p>
                 <p className='text-slate-300 mx-4 my-2'>{description}</p>

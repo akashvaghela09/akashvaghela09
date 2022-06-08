@@ -3,15 +3,15 @@
         {
             "name": "DCX",
             "description": "Crowdy is a mobile app that helps you find the best places to eat, drink, and shop in your area. It's free to use and you can even share your favorite places with your friends.",
-            "cover": "https://picsum.photos/300/150",
-            "github": "https://github.com/akashvaghela09/Crowdy",
+            "cover": "https://i.ibb.co/qNJNj6p/dcx.png",
+            "github": "https://github.com/akashvaghela09/DecentralizedExchange",
             "loom": "",
             "url": "https://dcx.app3.in/"
         },
         {
             "name": "Crowdy",
             "description": "Crowdy is a mobile app that helps you find the best places to eat, drink, and shop in your area. It's free to use and you can even share your favorite places with your friends.",
-            "cover": "https://picsum.photos/300/150",
+            "cover": "https://i.ibb.co/BytQPbd/crowdy.png",
             "github": "https://github.com/akashvaghela09/Crowdy",
             "loom": "",
             "url": "https://crowdy.app3.in/"
@@ -19,16 +19,16 @@
         {
             "name": "Multi Signer Wallet",
             "description": "Crowdy is a mobile app that helps you find the best places to eat, drink, and shop in your area. It's free to use and you can even share your favorite places with your friends.",
-            "cover": "https://picsum.photos/300/150",
-            "github": "https://github.com/akashvaghela09/Crowdy",
+            "cover": "https://i.ibb.co/h9jN7Yb/msw.png",
+            "github": "https://github.com/akashvaghela09/MultiSignWallet",
             "loom": "",
-            "url": "https://msw.app3.in/"
+            "url": "https://multi-sign-wallet.app3.in/"
         },
         {
             "name": "Escrow",
             "description": "Crowdy is a mobile app that helps you find the best places to eat, drink, and shop in your area. It's free to use and you can even share your favorite places with your friends.",
-            "cover": "https://picsum.photos/300/150",
-            "github": "https://github.com/akashvaghela09/escrow",
+            "cover": "https://i.ibb.co/Pmzs1HK/escrow.png",
+            "github": "https://github.com/akashvaghela09/Escrow",
             "loom": "",
             "url": "https://escrow.app3.in/"
         }
