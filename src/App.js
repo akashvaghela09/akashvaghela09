@@ -23,9 +23,9 @@ function App() {
 }
 
   return (
-    <div className="min-h-screen bg-slate-900 h-fit flex flex-col items-center">
+    <div className="min-h-screen bg-slate-900 flex flex-col items-center">
       <Header handleScroll={handleScroll}/>
-      <div className='rootPage'>
+      <div className='rootPage overflow-auto h-screen'>
         <About handleRedirectPage={handleRedirectPage} />
         <Skills />
         <Projects />
