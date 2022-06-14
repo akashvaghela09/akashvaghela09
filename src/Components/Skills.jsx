@@ -6,7 +6,7 @@ const Skills = () => {
         <p className='text-center text-3xl font-bold text-slate-300 m-4 underline decoration-6 decoration-blue-500'>Skills</p>
         <div className='flex flex-col justify-center'>
           <div className='w-full my-4'>
-            <p className='text-xl font-bold text-slate-300 m-4'>Tech Stack</p>
+            <p className='text-xl font-bold text-slate-300 m-4 text-center'>Tech Stack</p>
             <div className='flex items-center justify-center flex-wrap'>
               <label className='flex bg-slate-600 items-center w-32 md:w-36 m-1 md:m-2 p-1 rounded'>
                 <img src='./icons/js.png' className='rounded w-8 h-8 m-1' alt="javascript" />
@@ -60,7 +60,7 @@ const Skills = () => {
           </div>
 
           <div className='w-full my-4'>
-            <p className='text-xl font-bold text-slate-300 m-4'>Tools</p>
+            <p className='text-xl font-bold text-slate-300 m-4 text-center'>Tools</p>
             <div className='flex items-center justify-center flex-wrap'>
               <label className='flex bg-slate-600 items-center w-32 md:w-36 m-1 md:m-2 p-1 rounded'>
                 <img src='./icons/hardhat.png' className='rounded w-8 h-8 m-1' alt="javascript" />
