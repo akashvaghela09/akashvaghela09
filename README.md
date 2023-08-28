@@ -2,12 +2,12 @@
 
 # Hi there 👋
 <!-- <br /> -->
-I am **Akash Vaghela**. a Blockchain enthusiast and Solidity Smart contract developer. I love to build apps that are interesting and useful. 
+I am **Akash Vaghela**. a Blockchain enthusiast and MERN stack developer. I love to build apps that are interesting and useful. 
 
 ⚡ Little bit more about me:
 
-- ⚗️ Though I hold Bachelor's degree in chemical engineering, I become a Full Stack (MERN) web developer.
-- 🌱 I’m actively looking for oppotunities in Web3 and Blockchain development.
+- ⚗️ Though I hold Bachelor's degree in chemical engineering, I become a Full Stack web developer.
+- 🌱 I’m actively looking for oppotunities.
 
 #### ⚡ One line that describes me best? 
 A hard working and energetic person who loves to code.
@@ -17,10 +17,6 @@ I like to read books and watch short movies.
 
 #### 📫 How can you reach me?
 Connect with me on [Twitter](https://twitter.com/akashvaghela09) or [LinkedIn](https://www.linkedin.com/in/akashvaghela09).
-
-<!-- 
-#### 💬 Want to know more about me?
-You can find my work on my [Portfolio](https://akashvaghela.vercel.app). -->
 
 <br />
 
